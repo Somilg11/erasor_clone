@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+shadcn for buttons and stuff, hyper ui to get predefined headers,footers,banners, Kinde for authentication, convex for database
+
 ## Getting Started
 
 First, run the development server:
@@ -12,6 +14,10 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+along with:
+```bash
+npx convex dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
