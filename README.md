@@ -1,6 +1,12 @@
+# Erasor clone
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-shadcn for buttons and stuff, hyper ui to get predefined headers,footers,banners, Kinde for authentication, convex for database
+## Great Learning
+
+✈️-Shadcn for buttons and stuff</br>
+🎃-Hyper ui to get predefined headers,footers,banners</br>
+🔐-Kinde for authentication</br>
+🎁-convex for database</br>
 
 ## Getting Started
 
