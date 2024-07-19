@@ -60,6 +60,7 @@ function Editor({onSaveTrigger,fileId,fileData}:{onSaveTrigger:any,fileId:any,fi
              */
             tools: {
                 header: {
+                    //@ts-ignore
                     class: Header,
                     shortcut: 'CMD+SHIFT+H',
                     config:{
